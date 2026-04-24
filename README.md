@@ -1,4 +1,4 @@
-# Flexbox & Grid Mastery — Real Layout Projects
+# Flexbox & Grid Mastery Real Layout Projects
 
 This repository documents my focused practice on mastering **CSS Flexbox and Grid** by building real-world UI patterns instead of relying on tutorials.
 
@@ -10,8 +10,8 @@ The goal is simple: move from _knowing syntax_ to _thinking in layouts_.
 
 Instead of random exercises, I structured my practice into three stages:
 
-1. **Flexbox → One-dimensional layouts**
-2. **Grid → Two-dimensional layouts**
+1. **Flexbox → One-dimensional layouts (Rows OR Columns)**
+2. **Grid → Two-dimensional layouts (Rows AND Columns)**
 3. **Flexbox + Grid → Real-world systems**
 
 Each project targets a specific layout problem.
@@ -63,13 +63,7 @@ No frameworks used — focus is on core layout fundamentals.
 
 ## 📸 Preview
 
-(Add screenshots here)
-
-Example:
-
-- Navbar layout
-- Dashboard UI
-- SaaS landing page sections
+(screenshots are here)
 
 ---
 
@@ -109,7 +103,7 @@ Other takeaways:
 Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/flexbox-grid-mastery.git
+git clone https://github.com/ysdesilva21/flexbox-grid.git
 ```
 
 Open any project folder and run in browser.
