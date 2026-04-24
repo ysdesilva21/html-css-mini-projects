@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+*{
+    padding:0;
+    margin:0;
+    list-style-type:none;
+    text-decoration:none;
+    font-family: "Bricolage Grotesque", sans-serif;
+    color:black;
+}
+body{
+     min-height:100vh;
+     background: #fafafa;
+}
+.btn{
+    padding:0.5rem;
+    font-weight:500;
+    background:#FF8C00 ;
+    border: solid 2px #f0911e;
+    border-radius:20px;
+}
+
+.nav{
+    display:flex;
+    justify-content:space-around;
+    line-height:85px;
+}
+.nav-demo{
+    font-size:1.1rem;
+    color: #ff5900;
+    height:50px;
+}
+.logo-img{
+    width:40px;
+    border-radius:8px;
+}
+.brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+.brand-name{
+    font-size:1.2rem;
+    font-weight:500;
+}
+.ai{
+    color: #FF8C00;
+}
+.nav-menu{
+    display:flex;
+    justify-content:space-around;
+    gap:15px;
+}
+.nav-menu a{
+    font-size:1.1rem;
+}
+.hero-container{
+    display:flex;
+    justify-content:space-evenly;
+    margin:2rem;
+    padding:3.5rem;
+    align-items:center;
+}
+.hero-content{
+    display:flex;
+    flex-direction:column;
+    gap:2.5rem;
+}
+.hero-content h1{
+    font-size:50px;
+}
+.hero-card{
+    width:200px;
+    padding:0.25rem;
+    font-weight:400;
+    border: solid 2px #FF8C00;
+    background: #f6e1d6;
+    border-radius:16px;
+}
+.orange-dot{
+    font-size:12px;
+    text-align:center;
+}
+.hero-img{
+    width:500px;
+    height:auto;
+}
+.hero-sub{
+    font-size:1.2rem;
+}
+.hero-actions{
+    display:flex;
+    justify-content:flex-start;
+    gap:2rem;
+}
+.sec-btn{
+    background:white;
+}
+.hero-trust{
+    text-align:center;
+    padding-top:3.5rem;
+    color: gray;
+}
