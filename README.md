@@ -1,122 +1,112 @@
-# Flexbox & Grid Mastery Real Layout Projects
+# 🎯 HTML & CSS Mastery – Mini Projects Collection
 
-This repository documents my focused practice on mastering **CSS Flexbox and Grid** by building real-world UI patterns instead of relying on tutorials.
-
-The goal is simple: move from _knowing syntax_ to _thinking in layouts_.
+A structured collection of mini projects built while mastering core frontend concepts.  
+Each project focuses on a specific concept and demonstrates real-world UI patterns.
 
 ---
 
-## 🧠 Learning Approach
+## 🚀 Goals
 
-Instead of random exercises, I structured my practice into three stages:
+- Strengthen HTML semantics and accessibility
+- Master CSS layout systems (Flexbox & Grid)
+- Build responsive, production-style UI components
+- Document learning through real implementations
 
-1. **Flexbox → One-dimensional layouts (Rows OR Columns)**
-2. **Grid → Two-dimensional layouts (Rows AND Columns)**
-3. **Flexbox + Grid → Real-world systems**
+---
 
-Each project targets a specific layout problem.
+## 🧠 Concepts Covered
+
+| Topic | Projects |
+|------|--------|
+| HTML Semantics | Blog Layout, Product Page |
+| CSS Fundamentals | Cards, Pricing Section |
+| Flexbox | Navbar + Hero Section |
+| Grid | Image Gallery, Blog Layout |
+| Responsive Design | SaaS Landing Page |
+| Animations | Buttons, Hover Effects |
+| Accessibility | Form + Keyboard Navigation |
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Flexbox
+### 1. Navbar + Hero Section (Flexbox)
+- Responsive navigation bar
+- Hero with CTA
+- Focus: alignment, spacing
 
-| Project               | Focus                              |
-| --------------------- | ---------------------------------- |
-| Navbar + Hero Section | Alignment, spacing, responsiveness |
-| Pricing Cards         | Equal height, distribution         |
-| Feature Cards         | Wrapping, flexible layouts         |
+### 2. Pricing Cards
+- 3-tier pricing layout
+- Focus: layout consistency, spacing system
 
----
+### 3. Image Gallery (Grid)
+- Responsive grid system
+- Focus: 2D layout, responsiveness
 
-### 🔹 Grid
+### 4. Blog Layout
+- Semantic HTML structure
+- Focus: readability, typography
 
-| Project       | Focus                          |
-| ------------- | ------------------------------ |
-| Image Gallery | Grid structure, responsiveness |
-| Blog Layout   | Grid areas, content hierarchy  |
-
----
-
-### 🔹 Flexbox + Grid
-
-| Project                | Focus                           |
-| ---------------------- | ------------------------------- |
-| Mini Landing Page      | Section layout + responsiveness |
-| Mobile-First Dashboard | Sidebar + content structure     |
-| SaaS Template Clone    | Real-world layout decisions     |
-
-Inspired by UI patterns from platforms like **Stripe**, **Linear**, and **Notion**.
+### 5. SaaS Landing Page
+- Fully responsive design
+- Focus: real-world layout patterns
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3 (Flexbox, Grid)
-- Responsive Design (Mobile-first)
+- Mobile-first approach
 
-No frameworks used — focus is on core layout fundamentals.
+---
+
+## 📱 Responsiveness
+
+All projects are built with:
+- Mobile-first design
+- Fluid layouts
+- Breakpoint optimization
+
+---
+
+## ♿ Accessibility
+
+- Semantic HTML
+- Proper labels and alt text
+- Keyboard navigation basics
 
 ---
 
 ## 📸 Preview
 
-(screenshots are here)
+(Add screenshots here)
 
 ---
 
 ## 🧩 Key Learnings
 
-- Flexbox is best for alignment and component-level layout
-- Grid is best for page-level structure
-- Combining both is essential for real-world UI
-
-Other takeaways:
-
-- Spacing systems matter more than individual properties
-- Responsive design should be built from the start
-- Debugging layouts improves understanding faster than tutorials
+- Layout > styling in real-world UI
+- Consistency improves design quality
+- Mobile-first simplifies responsiveness
+- Clean structure makes scaling easier
 
 ---
 
-## ⚠️ Challenges Faced
+## 🔗 Live Demo
 
-- Handling equal height cards without hacks
-- Switching from “trial-and-error” to structured layout thinking
-- Making layouts responsive across screen sizes
+(Add links if deployed)
 
 ---
 
-## 🚀 Future Improvements
+## 📌 Future Improvements
 
-- Add animations (CSS / JS)
-- Convert layouts into reusable components
-- Rebuild using Tailwind CSS
-- Implement accessibility improvements
-
----
-
-## 📌 How to Use
-
-Clone the repo:
-
-```bash
-git clone https://github.com/ysdesilva21/flexbox-grid.git
-```
-
-Open any project folder and run in browser.
+- Add dark mode
+- Convert components into React
+- Improve accessibility (ARIA roles)
 
 ---
 
-## 🧭 Why This Repository Exists
+## 📄 License
 
-Most tutorials teach properties.
-This repository focuses on **applying them in real scenarios**.
-
----
-
-## 📬 Connect
-
-If you're learning layout systems or frontend development, feel free to connect or share feedback.
+This project is open-source for learning purposes.
