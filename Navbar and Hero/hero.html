@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A modern, responsive portfolio landing page">
+    <title>Frontend Developer | Portfolio</title>
+    
+    <!-- Google Fonts: Poppins (display) + Inter (body) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="hero.css">
+</head>
+<body>
+    <!-- =====================
+         NAVIGATION BAR
+         ===================== -->
+    <nav class="navbar" role="navigation" aria-label="Main navigation">
+        <div class="navbar-container">
+            <!-- Logo -->
+            <div class="navbar-logo">
+                <a href="#home" aria-label="Home">ALEX<span class="logo-accent">.</span></a>
+            </div>
+
+            <!-- Hamburger Menu Toggle -->
+            <input type="checkbox" id="menu-toggle" class="menu-toggle" aria-label="Toggle navigation menu">
+            <label for="menu-toggle" class="hamburger" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+            </label>
+
+            <!-- Navigation Links -->
+            <ul class="nav-links">
+                <li><a href="#home" class="nav-link active">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#projects" class="nav-link">Projects</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
+                <!-- CTA Button -->
+                <li><a href="#contact" class="btn btn-cta" aria-label="Get in touch">Resume</a></li>
+            </ul>
+
+            
+        </div>
+    </nav>
+
+    <!-- =====================
+         HERO SECTION
+         ===================== -->
+    <section class="hero" id="home" aria-labelledby="hero-heading">
+        <div class="hero-container">
+            <!-- Left Content -->
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span class="badge-dot"></span>
+                    <span>Available for work</span>
+                </div>
+
+                <h1 id="hero-heading" class="hero-heading">
+                    High Impact 
+                    <span class="text-gradient">Digital Products</span>
+                </h1>
+
+                <p class="hero-description">
+                    I build fast, scalable web applications and digital experiences. Full-stack developer, designer, and startup founder focused on shipping real value.
+                </p>
+
+                <!-- CTA Buttons -->
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary">View My Work</a>
+                    <a href="#contact" class="btn btn-secondary">Let's Talk</a>
+                </div>
+
+                <!-- Social Links (Optional) -->
+                <div class="hero-social">
+                    <a href="#" class="social-link" aria-label="GitHub">GitHub</a>
+                    <a href="#" class="social-link" aria-label="LinkedIn">LinkedIn</a>
+                    <a href="#" class="social-link" aria-label="Twitter">Twitter</a>
+                </div>
+            </div>
+
+            <!-- Right Visual (Image/Illustration Placeholder) -->
+            <div class="hero-visual">
+                <div class="hero-image-placeholder">
+                    <img src="hero.jpg" alt="hero image">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Minimal JavaScript for hamburger menu functionality -->
+    <script src="hero.js" defer></script>
+</body>
+</html>
