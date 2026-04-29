@@ -1,75 +1,46 @@
-# 🌐 Web Development Fundamentals — Project Series
+<img width="1918" height="929" alt="Screenshot 2026-04-28 170224" src="https://github.com/user-attachments/assets/c5d0d4c9-90d6-4faf-bf93-3b4e4ca6cc7f" /># 🎨 HTML & CSS Fundamentals — Layout & Design
 
-A focused collection of mini-projects designed to master **HTML, CSS, and Vanilla JavaScript** through practical building.
-This repository documents my journey of strengthening core web development skills by creating real, functional interfaces without relying on frameworks.
+A collection of projects focused on mastering **modern layout techniques and responsive design** using pure HTML and CSS.
 
 ---
 
 ## 📌 Objective
 
-To build a strong foundation in modern web development by focusing on:
+To build strong fundamentals in:
 
 * Semantic HTML structure
-* Responsive design (Mobile-first)
-* CSS Flexbox & Grid layouts
-* JavaScript DOM manipulation
-* Real-world data handling using APIs
+* Responsive design (mobile-first)
+* CSS Flexbox & Grid
+* Clean UI layout without frameworks
 
 ---
 
-## 🧩 Project Categories
+## 🧩 Projects
 
-### 1. 🏗️ Structure & Layout (HTML + CSS)
+### 🏗️ Hero section + navbar
 
-These projects focus on building clean, responsive, and accessible UI layouts.
+* Responsive layout using Flexbox
+* Semantic html with css basic
 
-* **Responsive Landing Page**
-  → Built using Flexbox & Grid for structured layouts
+### 🏗️ Landing Page
 
-* **Bento Grid Layout**
-  → Advanced CSS Grid positioning (modern UI pattern)
+* Responsive layout using Flexbox
+* Structured sections (Hero, Features, CTA)
 
-* **Portfolio Website**
-  → Multi-section personal site (About, Projects, Contact)
+### 🧱 Bento Grid
 
----
+* Advanced CSS Grid layout
+* Modern UI inspired design patterns
 
-### 2. ⚙️ Interaction & Logic (JavaScript)
+### 🌐 Saas Website
 
-Focused on DOM manipulation and local state management.
+* Multi-section personal site
+* Fully responsive design
 
-* **To-Do App**
-  → Add, delete, complete tasks + localStorage persistence
+### 🌄 Parallax Section (Optional)
 
-* **Quiz App**
-  → Score tracking, question flow, conditional logic
-
-* **Calculator**
-  → Handles operations using pure JavaScript logic
-
----
-
-### 3. 🌍 API Integration
-
-Working with external data sources.
-
-* **Weather App / Movie Search / GitHub Finder**
-  → Fetch API data and render dynamically
-
----
-
-### 4. 🎨 UI Components
-
-Reusable interface elements for modern applications.
-
-* **Dark/Light Mode Toggle**
-  → Theme switching using CSS variables
-
-* **Image Slider / Carousel**
-  → Interactive UI with transitions
-
-* **Password Generator**
-  → Random generation + strength indicator
+* Scroll-based visual effect
+* CSS transforms and layering
 
 ---
 
@@ -77,81 +48,46 @@ Reusable interface elements for modern applications.
 
 * HTML5
 * CSS3 (Flexbox, Grid, Variables)
-* JavaScript (ES6+)
-* Browser APIs (LocalStorage, Fetch)
 
 ---
 
-## 📂 Project Structure
+## 📂 Structure
 
 ```
-/web-dev-fundamentals
-│
-├── /portfolio
-├── /landing-page
-├── /bento-grid
-├── /todo-app
-├── /quiz-app
-├── /calculator
-├── /api-projects
-└── /components
+/html-css-projects
+├── /navbar-hero
+
 ```
 
 ---
 
 ## 🚀 Key Learnings
 
-* Writing **clean, semantic HTML**
-* Building **responsive layouts without frameworks**
-* Understanding **how JavaScript controls the DOM**
-* Managing **state and user interaction**
-* Working with **real-world APIs**
-* Structuring projects like a developer
+* Building layouts using AI and review line by line
+* Writing clean, semantic HTML
+* Mastering Flexbox & Grid
+* Creating responsive interfaces
 
 ---
 
 ## ⚠️ Approach
 
-This is not about perfection or heavy design.
-
-Each project is:
-
-* Small
-* Focused
-* Built to understand a specific concept
+* No frameworks
+* No shortcuts
+* Focus on fundamentals over design trends
 
 ---
 
 ## 📈 Progress
 
 * [x] Navbar + Hero
-* [x] Landing Page
-* [x] Bento Grid
-* [ ] Portfolio Website
-* [ ] To-Do App
-* [ ] Quiz App
-* [ ] Calculator
-* [ ] API Project
-* [ ] UI Components
 
----
 
-## 📬 Notes
-
-This repository represents a **learning-first approach**.
-Every project is built by reviewing and understanding code deeply rather than copying blindly.
 
 ---
 
 ## 🔗 Future Improvements
 
-* Add animations & micro-interactions
-* Improve accessibility (ARIA, keyboard navigation)
-* Optimize performance
-* Convert projects into reusable components
+*Turn into react components
 
 ---
-
-## 📄 License
-
-This project is open for learning and personal use.
