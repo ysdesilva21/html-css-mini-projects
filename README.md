@@ -1,4 +1,4 @@
-<img width="1918" height="929" alt="Screenshot 2026-04-28 170224" src="https://github.com/user-attachments/assets/c5d0d4c9-90d6-4faf-bf93-3b4e4ca6cc7f" /># 🎨 HTML & CSS Fundamentals — Layout & Design
+# 🎨 HTML & CSS Fundamentals — Layout & Design
 
 A collection of projects focused on mastering **modern layout techniques and responsive design** using pure HTML and CSS.
 
@@ -81,7 +81,7 @@ To build strong fundamentals in:
 ## 📈 Progress
 
 * [x] Navbar + Hero
-
+<img width="1918" height="929" alt="Screenshot 2026-04-28 170224" src="https://github.com/user-attachments/assets/c5d0d4c9-90d6-4faf-bf93-3b4e4ca6cc7f" />
 
 
 ---
