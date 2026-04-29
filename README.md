@@ -21,7 +21,7 @@ Each project focuses on a specific concept and demonstrates real-world UI patter
 | Topic | Projects |
 |------|--------|
 | HTML Semantics | Blog Layout, Product Page |
-| CSS Fundamentals | Cards, Pricing Section |
+| CSS Fundamentals | all projects |
 | Flexbox | Navbar + Hero Section |
 | Grid | Image Gallery, Blog Layout |
 | Responsive Design | SaaS Landing Page |
@@ -36,20 +36,16 @@ Each project focuses on a specific concept and demonstrates real-world UI patter
 - Responsive navigation bar
 - Hero with CTA
 - Focus: alignment, spacing
-
-### 2. Pricing Cards
-- 3-tier pricing layout
-- Focus: layout consistency, spacing system
-
-### 3. Image Gallery (Grid)
+- 
+### 2. Image Gallery (Grid)
 - Responsive grid system
 - Focus: 2D layout, responsiveness
 
-### 4. Blog Layout
+### 3. Blog Layout
 - Semantic HTML structure
 - Focus: readability, typography
 
-### 5. SaaS Landing Page
+### 4. SaaS Landing Page
 - Fully responsive design
 - Focus: real-world layout patterns
 
@@ -95,17 +91,9 @@ All projects are built with:
 
 ---
 
-## 🔗 Live Demo
-
-(Add links if deployed)
-
----
-
 ## 📌 Future Improvements
 
-- Add dark mode
 - Convert components into React
-- Improve accessibility (ARIA roles)
 
 ---
 
