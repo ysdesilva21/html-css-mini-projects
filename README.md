@@ -17,27 +17,27 @@ To build strong fundamentals in:
 
 ## 🧩 Projects
 
-### 🏗️ Hero section + navbar
+### Hero section + navbar
 
 * Responsive layout using Flexbox
 * Semantic html with css basic
 
-### 🏗️ Landing Page
+### Landing Page
 
 * Responsive layout using Flexbox
 * Structured sections (Hero, Features, CTA)
 
-### 🧱 Bento Grid
+### Bento Grid
 
 * Advanced CSS Grid layout
 * Modern UI inspired design patterns
 
-### 🌐 Saas Website
+### Saas Website
 
 * Multi-section personal site
 * Fully responsive design
 
-### 🌄 Parallax Section (Optional)
+### Parallax Section (Optional)
 
 * Scroll-based visual effect
 * CSS transforms and layering
