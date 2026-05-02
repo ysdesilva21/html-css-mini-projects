@@ -22,7 +22,26 @@ To build strong fundamentals in:
 * Responsive layout using Flexbox
 * Semantic html with css basic
 
+### Landing Page
 
+* Responsive layout using Flexbox
+* Structured sections (Hero, Features, CTA)
+
+### Bento Grid
+
+* Advanced CSS Grid layout
+* Modern UI inspired design patterns
+
+### Saas Website
+
+* Multi-section personal site
+* Fully responsive design
+
+### Parallax Section (Optional)
+
+* Scroll-based visual effect
+* CSS transforms and layering
+  
 ---
 
 ## 🛠️ Tech Stack
